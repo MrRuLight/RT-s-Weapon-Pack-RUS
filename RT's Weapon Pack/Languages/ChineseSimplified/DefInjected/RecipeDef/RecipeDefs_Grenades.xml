@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData> 
+
+    <CraftM67FragGrenade.label>M67破片手榴弹挂包</CraftM67FragGrenade.label>  
+
+    <CraftM67FragGrenade.description>允许殖民者通过机器加工台制作M67破片手榴弹挂包。</CraftM67FragGrenade.description> 
+	
+	<CraftM67FragGrenade.jobString>正在制作M67破片手榴弹挂包</CraftM67FragGrenade.jobString>
+	
+
+
+  
+</LanguageData>

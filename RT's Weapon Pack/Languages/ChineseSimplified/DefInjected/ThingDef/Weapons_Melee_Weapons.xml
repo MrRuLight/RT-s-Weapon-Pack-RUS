@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+<LanguageData> 
+
+	
+	<MeleeWeapon_Krambit.label>Krambit爪刀</MeleeWeapon_Krambit.label>  
+
+    <MeleeWeapon_Krambit.description>Krambit（俗称爪刀）是一种南亚国家常见的便携防身武器。</MeleeWeapon_Krambit.description> 
+	
+	<MeleeWeapon_GerberSurvivalKnife.label>戈贝尔生存刀</MeleeWeapon_GerberSurvivalKnife.label>  
+
+    <MeleeWeapon_GerberSurvivalKnife.description>一种便携的求生用小刀</MeleeWeapon_GerberSurvivalKnife.description> 
+	
+    <MeleeWeapon_M9_Bayonet.label>M9型刺刀</MeleeWeapon_M9_Bayonet.label>  
+
+    <MeleeWeapon_M9_Bayonet.description>M9型刺刀是多用途刺刀，旧世界1986年被美国军方采用，应对近距离战斗十分有效</MeleeWeapon_M9_Bayonet.description>
+	
+	<MeleeWeapon_Khukuri_Knife.label>库克里弯刀</MeleeWeapon_Khukuri_Knife.label>  
+
+    <MeleeWeapon_Khukuri_Knife.description>库克里弯刀的刀刃呈向内弯曲的形状，它的形状犹如砍刀，既可作为工具也能作为武器。</MeleeWeapon_Khukuri_Knife.description>  
+	
+	<MeleeWeapon_Crowbar.label>撬棍（物理学圣剑）</MeleeWeapon_Crowbar.label>  
+
+    <MeleeWeapon_Crowbar.description>撬棍，实用的工具，一根有弯曲端的金属棒，末端的开口处用来起钉子效果奇好，紧急时候也能作为武器。</MeleeWeapon_Crowbar.description>
+	
+	<MeleeWeapon_Baton.label>警棍</MeleeWeapon_Baton.label>  
+
+    <MeleeWeapon_Baton.description>警棍是警察执行公务时，使用的特制棍棒。 各地区的警局对警棍的规格都有严格的控制。</MeleeWeapon_Baton.description>  
+	
+	<MeleeWeapon_HuntsmanKnife.label>猎刀</MeleeWeapon_HuntsmanKnife.label>  
+
+    <MeleeWeapon_Baton.description>这种刀具是为了适应现代战争而被设计出来的，能够在多种战斗场合使用。</MeleeWeapon_Baton.description>  
+	
+	<MeleeWeapon_Katana.label>w武士刀</MeleeWeapon_Katana.label>  
+
+    <MeleeWeapon_Katana.description>武士刀是封建时代日本武士使用的一种传统日式刀具。</MeleeWeapon_Katana.description>  
+	
+	<MeleeWeapon_Katana.label>开山刀</MeleeWeapon_Katana.label>  
+
+    <MeleeWeapon_Katana.description>一种大小和普通斧头差不多的刀，常用于在荒野、树林这样的地方开路所以又称开山刀。</MeleeWeapon_Katana.description>  
+
+</LanguageData>

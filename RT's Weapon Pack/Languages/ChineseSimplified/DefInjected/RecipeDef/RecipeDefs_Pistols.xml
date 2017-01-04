@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData> 
+
+    <Glock17Craft.label>Glock17手枪</Glock17Craft.label>  
+
+    <Glock17Craft.description>允许殖民者通过机器加工台制作Glock17手枪。</Glock17Craft.description> 
+	
+	<Glock17Craft.jobString>正在制作Glock17手枪</Glock17Craft.jobString>
+	
+    <DeagleCraft.label>沙漠之鹰</DeagleCraft.label>  
+
+    <DeagleCraft.description>允许殖民者通过机器加工台制作沙漠之鹰。</DeagleCraft.description> 
+	
+	<DeagleCraft.jobString>正在制作沙漠之鹰</DeagleCraft.jobString>
+	
+    <ColtPythonRevolverCraft.label>柯尔特左轮手枪</ColtPythonRevolverCraft.label>  
+
+    <ColtPythonRevolverCraft.description>允许殖民者通过机器加工台制作柯尔特左轮手枪。</ColtPythonRevolverCraft.description> 
+	
+	<ColtPythonRevolverCraft.jobString>正在制作柯尔特左轮手枪</ColtPythonRevolverCraft.jobString>
+	
+    <M1911Craft.label>M1911手枪</M1911Craft.label>  
+
+    <M1911Craft.description>允许殖民者通过机器加工台制作M1911手枪。</M1911Craft.description> 
+	
+	<M1911Craft.jobString>正在制作M1911手枪</M1911Craft.jobString>
+	
+    <LugerP08Craft.label>鲁格P08手枪</LugerP08Craft.label>  
+
+    <LugerP08Craft.description>允许殖民者通过机器加工台制作鲁格P08手枪。</LugerP08Craft.description> 
+	
+	<LugerP08Craft.jobString>正在制作鲁格P08手枪</LugerP08Craft.jobString>
+	    
+	<DualBerettasCraft.label>贝瑞塔手枪</DualBerettasCraft.label>  
+
+    <DualBerettasCraft.description>允许殖民者通过机器加工台制作贝瑞塔手枪。</DualBerettasCraft.description> 
+	
+	<DualBerettasCraft.jobString>正在制作贝瑞塔手枪</DualBerettasCraft.jobString>
+	
+
+
+  
+</LanguageData>

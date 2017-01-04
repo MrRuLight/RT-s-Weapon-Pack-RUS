@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData> 
+<!--=================================================================步枪类==================================================================== -->
+	
+	<Gun_AK47_rt.label>AK47突击步枪</Gun_AK47_rt.label>  
+
+    <Gun_AK47_rt.description>AK47是旧世界国家俄罗斯使用的一款突击步枪，旧世界1947年由米哈伊尔·季莫费耶维奇·卡拉什尼科夫设计，1949年首次投入使用。</Gun_AK47_rt.description> 
+	
+	<Gun_M1Garand_rt.label>M1加兰德</Gun_M1Garand_rt.label>  
+
+    <Gun_M1Garand_rt.description>M1加兰德是一款旧世界美国于第二次世界大战时使用的一款半自动步枪。</Gun_M1Garand_rt.description> 
+	
+	<Gun_M4A4_rt.label>M4A4突击步枪</Gun_M4A4_rt.label>  
+
+    <Gun_M4A4_rt.description>M4A4突击步枪是被用来完全替代美国陆军和海军陆战队的M16突击步枪的，代替其成为主要的单兵武器。</Gun_M4A4_rt.description>
+	
+	<Gun_FNF2000_rt.label>FN2000突击步枪</Gun_FNF2000_rt.label>  
+
+    <Gun_FNF2000_rt.description>这是一款小巧的气动无托式全自动突击步枪。</Gun_FNF2000_rt.description>
+	
+	<Gun_M14_rt.label>M14步枪</Gun_M14_rt.label>  
+
+    <Gun_M14_rt.description>M14步枪是美国陆军与海军陆战队在1960-1970年所使用的一款半自动步枪。</Gun_M14_rt.description> 
+	
+	<Gun_SCAR_rt.label>FN SCAR-L</Gun_SCAR_rt.label>  
+
+    <Gun_SCAR_rt.description>FN SCAR-L是专供特战部队使用的模块化步枪，L型是使用5.56 NATO弹的轻量型版本。</Gun_SCAR_rt.description> 
+	
+	<Gun_SCAR_rt.label>FN SCAR-L</Gun_SCAR_rt.label>  
+
+    <Gun_SCAR_rt.description>FN SCAR-L是专供特战部队使用的模块化步枪，L型是使用5.56 NATO弹的轻量型版本。</Gun_SCAR_rt.description> 
+
+    <Gun_Famas_rt.label>Famas突击步枪</Gun_Famas_rt.label>  
+
+    <Gun_Famas_rt.description>Famas突击步枪采用无托式结构，由旧世界一个叫法国的国家制造和装备。</Gun_Famas_rt.description> 
+	
+    <Gun_L96A1_rt.label>L96A1狙击步枪</Gun_L96A1_rt.label>  
+
+    <Gun_L96A1_rt.description>L96A1是由旧世界一家叫做精准国际的公司专门为旧世界国家英国的军队而制造的狙击步枪。</Gun_L96A1_rt.description> 
+	
+	<Gun_AWM_rt.label>AWM狙击步枪</Gun_AWM_rt.label>  
+
+    <Gun_AWM_rt.description>AWM步枪是精准国际的一款栓动式狙击步枪，是精准国际公司设计的一款使用.300马格南步枪弹的改良型AW狙击枪。</Gun_AWM_rt.description> 
+	
+	<Gun_Barrett_rt.label>巴雷特M82A1反器材步枪</Gun_Barrett_rt.label>  
+
+    <Gun_Barrett_rt.description>这是一款利用反冲操作的半自动反器材步枪，由旧世界美国巴雷特公司研发和制造。</Gun_Barrett_rt.description>
+	
+	<Gun_VSSVintorez_rt.label>VSS Vintorez微声狙击步枪</Gun_VSSVintorez_rt.label>  
+
+    <Gun_VSSVintorez_rt.description>一款专门为特别行动与潜入任务使用的微声狙击步枪</Gun_VSSVintorez_rt.description> 
+	
+	<Gun_L85A2_rt.label>L85A2突击步枪</Gun_L85A2_rt.label>  
+
+    <Gun_L85A2_rt.description>L85A2是一款可以选择开火模式的气动式突击步枪，这款步枪自1987年开始一直是英国军队的标准装备。</Gun_L85A2_rt.description> 
+	
+	<Gun_XM8_rt.label>XM8突击步枪</Gun_XM8_rt.label>  
+
+    <Gun_XM8_rt.description>XM8是美国武器设计局研制的一款轻量化突击步枪，从90年代末至20世纪初开始配备给美国陆军。</Gun_XM8_rt.description> 
+	
+	<Gun_QBZ95_rt.label>95式自动步枪</Gun_QBZ95_rt.label>  
+
+    <Gun_QBZ95_rt.description>一款无托式突击步枪，使用5.8x42mm（DBP87式枪弹）弹药。</Gun_QBZ95_rt.description> 
+	
+	<Gun_HKG36C_rt.label>G36C突击步枪</Gun_HKG36C_rt.label>  
+
+    <Gun_HKG36C_rt.description>一款旧世界20世纪90年代设计的突击步枪，使用5.56×45mm弹药。</Gun_HKG36C_rt.description> 
+	
+	<Gun_G3A3_rt.label>G3A3突击步枪</Gun_G3A3_rt.label>  
+
+    <Gun_G3A3_rt.description>G3A3是旧世界20世纪50年代德国黑克勒-科赫公司研制并生产配备给德国军队使用的一款全自动步枪，原型枪由西班牙特种材料技术研究中心制造。</Gun_G3A3_rt.description> 
+	
+	<Gun_Steyr_Stg77AUG_rt.label>斯太尔AUG突击步枪</Gun_Steyr_Stg77AUG_rt.label>  
+
+    <Gun_Steyr_Stg77AUG_rt.description>斯太尔AUG是一种导气式、弹匣供弹、射击方式可选的无托结构步枪。</Gun_Steyr_Stg77AUG_rt.description> 
+	
+	<Gun_Dragunov_rt.label>SVD狙击步枪</Gun_Dragunov_rt.label>  
+
+    <Gun_Dragunov_rt.description>SVD半自动狙击步枪是为了替代苏联的莫辛纳干狙击步枪而被制造出来。</Gun_Dragunov_rt.description> 
+	<!--=================================================================霰弹枪==================================================================== -->
+	
+	<Gun_SPAS12_rt.label>SPAS-12多功能霰弹枪</Gun_SPAS12_rt.label>  
+
+    <Gun_SPAS12_rt.description>SPAS-12是一款半自动霰弹枪，由旧世界意大利弗兰基公司于1979年至2000年制造并发行。</Gun_SPAS12_rt.description> 
+	
+	<Gun_DP12_rt.label>DP-12双管泵动式霰弹枪</Gun_DP12_rt.label>  
+
+    <Gun_DP12_rt.description>这是一款双管式泵动霰弹枪</Gun_DP12_rt.description> 
+	
+	<Gun_Winchester87_rt.label>温彻斯特M1887式霰弹枪</Gun_Winchester87_rt.label>  
+
+    <Gun_Winchester87_rt.description>这是一款旧世界闻名遐迩的杠杆式霰弹枪</Gun_Winchester87_rt.description> 
+		
+	<!--=================================================================冲锋枪==================================================================== -->
+	
+	<Gun_CZ3A1_rt.label>CZ-3A1冲锋枪</Gun_CZ3A1_rt.label>  
+
+    <Gun_CZ3A1_rt.description>这是一款轻量、紧凑并且易于在狭窄空间使用的冲锋枪</Gun_CZ3A1_rt.description>
+	
+	<Gun_KRISSVector_rt.label>Vector冲锋枪</Gun_KRISSVector_rt.label>  
+
+    <Gun_KRISSVector_rt.description>KRISS Vector系列冲锋枪是由美国枪械公司"美国KRISS公司"所研制及生产的冲锋枪枪族，该公司前身为转型武器研究国防工业。</Gun_KRISSVector_rt.description> 
+	
+	<Gun_HK_UMP45_rt.label>HK-UMP45冲锋枪</Gun_HK_UMP45_rt.label>  
+
+    <Gun_HK_UMP45_rt.description>HK-UMP45冲锋枪是一款使用.45ACP弹药的冲锋枪。</Gun_HK_UMP45_rt.description> 
+	
+	<Gun_P90_rt.label>FN P90冲锋枪</Gun_P90_rt.label>  
+
+    <Gun_P90_rt.description>FN P90冲锋枪是旧世界90年代由比利时的国营赫斯塔尔所推出一款冲锋枪。</Gun_P90_rt.description> 
+	
+	<Gun_Thompson_Submachine_Gun_rt.label>汤普森冲锋枪</Gun_Thompson_Submachine_Gun_rt.label>  
+
+    <Gun_Thompson_Submachine_Gun_rt.description>汤普森冲锋枪是旧世界美国人</Gun_Thompson_Submachine_Gun_rt.description> 
+	
+	<Gun_PPSH_41_rt.label>波波沙41型冲锋枪</Gun_PPSH_41_rt.label>  
+
+    <Gun_PPSH_41_rt.description>波波沙41型冲锋枪是旧世界第二次世界大战时苏联的主要步兵武器之一。</Gun_PPSH_41_rt.description> 
+	
+	<!--=================================================================手枪=================================================================== -->
+	
+	<Gun_Deagle_rt.label>沙漠之鹰</Gun_Deagle_rt.label>  
+
+    <Gun_Deagle_rt.description>沙漠之鹰是一款使用大口径弹药的半自动手枪，并且拥有独特的大型安全锁和两段式扳机等设计。</Gun_Deagle_rt.description> 
+	
+	<Gun_ColtPythonRevolver_rt.label>柯尔特"蟒蛇"左轮手枪</Gun_ColtPythonRevolver_rt.label>  
+
+    <Gun_ColtPythonRevolver_rt.description>柯尔特"蟒蛇"左轮手枪是由柯尔特制造公司在美国康涅狄格州的哈特福德工厂生产出来的，有时候这款手枪也被称作大杀器。</Gun_ColtPythonRevolver_rt.description> 
+	
+	<Gun_M1911_rt.label>M1911手枪</Gun_M1911_rt.label>  
+
+    <Gun_M1911_rt.description>M1911是一款单动反冲式的半自动手枪，它从旧世界1911年至1986年一直作为美国军队主要的武器之一。</Gun_M1911_rt.description> 
+	
+	<Gun_DualBerettas_rt.label>贝雷塔92F（双持）</Gun_DualBerettas_rt.label>  
+
+    <Gun_DualBerettas_rt.description>贝雷塔92F是一款低后坐力并可切换单/双动机构的手枪。</Gun_DualBerettas_rt.description> 
+	
+	<Gun_Glock17_rt.label>格洛克17式9mm手枪</Gun_Glock17_rt.label>  
+
+    <Gun_Glock17_rt.description>格洛克17是为专业人士设计的一款全自动手枪，是一款在全球里广泛使用的警用手枪。</Gun_Glock17_rt.description> 
+	
+	<!--=================================================================其它类=================================================================== -->
+	
+	<Bow_Compound_rt.label>复合弓</Bow_Compound_rt.label>  
+
+    <Bow_Compound_rt.description>一款使用杠杆原理并通过滑轮达到省力效果的复合弓，因为使用了滑轮，复合弓比传统的反曲弓与长弓更省力、拉伸性更强。</Bow_Compound_rt.description> 
+	
+	
+	
+
+	 
+</LanguageData>

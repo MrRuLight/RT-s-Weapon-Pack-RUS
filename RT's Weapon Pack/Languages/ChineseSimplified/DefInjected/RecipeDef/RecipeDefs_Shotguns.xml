@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData> 
+
+    <M1014Craft.label>M1014</M1014Craft.label>  
+
+    <M1014Craft.description>制作M1014</M1014Craft.description> 
+	
+	<M1014Craft.jobString>正在制作M1014</M1014Craft.jobString>
+
+    <DP12Craft.label>DP-12双管泵动式霰弹枪</DP12Craft.label>  
+
+    <DP12Craft.description>制作DP-12双管泵动式霰弹枪</DP12Craft.description> 
+	
+	<DP12Craft.jobString>正在制作DP-12双管泵动式霰弹枪</DP12Craft.jobString>
+
+    <Winchester87Craft.label>温彻斯特M1887式霰弹枪</Winchester87Craft.label>  
+
+    <Winchester87Craft.description>制作温彻斯特M1887式霰弹枪</Winchester87Craft.description> 
+	
+	<Winchester87Craft.jobString>正在制作温彻斯特M1887式霰弹枪</Winchester87Craft.jobString>
+
+    <SPAS12Craft.label>SPAS-12多功能霰弹枪</SPAS12Craft.label>  
+
+    <SPAS12Craft.description>制作SPAS-12多功能霰弹枪</SPAS12Craft.description> 
+	
+	<SPAS12Craft.jobString>正在制作SPAS-12多功能霰弹枪</SPAS12Craft.jobString>
+
+	
+</LanguageData>

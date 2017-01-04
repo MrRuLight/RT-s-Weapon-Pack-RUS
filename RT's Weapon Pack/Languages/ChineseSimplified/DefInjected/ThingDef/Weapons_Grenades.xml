@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData> 
+
+    <Proj_M67FragGrenade.label>M67式延时杀伤手榴弹</Proj_M67FragGrenade.label>  
+	
+	<Weapon_M67FragGrenade.label>M67破片手榴弹挂包</Weapon_M67FragGrenade.label>  
+
+    <Weapon_M67FragGrenade.description>M67式手榴弹是美国陆军使用的一种破片式手榴弹，它是用来快速清理室内敌人的好帮手。</Weapon_M67FragGrenade.description> 
+
+</LanguageData>
