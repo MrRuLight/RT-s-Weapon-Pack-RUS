@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData> 
+
+<!-- =============Compoundbow============== -->
+<Arrow_Compound_rt.label>Compoundbow Arrow</Arrow_Compound_rt.label>  
+<Arrow_Compound_rt.description>This is a bow that uses a levering system, usually of cables and pulleys, to bend the limbs. The pulley/cam system grants the wielder a mechanical advantage, and so the limbs of a compound bow are much stiffer than those of a recurve bow or longbow.</Arrow_Compound_rt.description> 
+
+</LanguageData>
