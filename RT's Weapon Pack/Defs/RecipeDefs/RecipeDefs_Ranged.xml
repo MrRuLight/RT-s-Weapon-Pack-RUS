@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RecipeDefs>
+<!-- ===========--> 
+   <RecipeDef>
+    <defName>CompoundbowCraft</defName>
+    <label>Make Compoundbow</label>
+    <description>Craft Compoundbow.</description>
+    <jobString>Making Compoundbow.</jobString>
+	<unfinishedThingDef>UnfinishedWeapon</unfinishedThingDef>
+	<workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workAmount>12000</workAmount>
+	<workSkill>Crafting</workSkill>
+    <products>
+        <Bow_Compound_rt>1</Bow_Compound_rt>
+    </products>
+    <ingredients>
+		<li>
+			<filter>
+				<thingDefs>
+					<li>Steel</li>
+				</thingDefs>
+			</filter>
+			<count>80</count>
+		</li>
+		<li>
+			<filter>
+				<thingDefs>
+					<li>Component</li>
+				</thingDefs>
+			</filter>
+			<count>2</count>
+		</li>
+    </ingredients>
+	<fixedIngredientFilter>
+         <thingDefs>
+            <li>Steel</li>
+			<li>Component</li>
+         </thingDefs>
+    </fixedIngredientFilter>
+	<recipeUsers>
+		<li>ElectricSmithy</li>
+		<li>FueledSmithy</li>
+	</recipeUsers>
+  </RecipeDef>
+ 
+
+  
+</RecipeDefs>

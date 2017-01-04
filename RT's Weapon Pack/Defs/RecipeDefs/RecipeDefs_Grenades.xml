@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+
+
+<RecipeDefs>
+  <RecipeDef>
+    <defName>CraftM67FragGrenade</defName>
+    <label>Make M67 Frag Grenade Pack</label>
+    <description>Craft M67 Frag Grenade Pack.</description>
+    <jobString>Making M67 Frag Grenade Pack.</jobString>
+	<unfinishedThingDef>UnfinishedWeapon</unfinishedThingDef>
+	<workSpeedStat>SmithingSpeed</workSpeedStat>
+    <workAmount>35000</workAmount>
+	<workSkill>Crafting</workSkill>
+    <products>
+        <Weapon_M67FragGrenade>1</Weapon_M67FragGrenade>
+    </products>
+    <ingredients>
+		<li>
+			<filter>
+				<thingDefs>
+					<li>Steel</li>
+				</thingDefs>
+			</filter>
+			<count>80</count>
+		</li>
+		<li>
+			<filter>
+				<thingDefs>
+					<li>Component</li>
+				</thingDefs>
+			</filter>
+			<count>3</count>
+		</li>
+    </ingredients>
+	<fixedIngredientFilter>
+         <thingDefs>
+            <li>Steel</li>
+			<li>Component</li>
+         </thingDefs>
+    </fixedIngredientFilter>
+	<recipeUsers>
+		<li>WeaponAssemblyTable_RT</li>
+	</recipeUsers>
+	<researchPrerequisite>ThrowableGrenades_RT</researchPrerequisite>
+	<skillRequirements>
+		<li>
+			<skill>Crafting</skill>
+			<minLevel>5</minLevel>
+		</li>
+	</skillRequirements>
+  </RecipeDef>
+</RecipeDefs>
+
