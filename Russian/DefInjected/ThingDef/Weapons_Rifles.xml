@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData> 
+<!-- ===================LVOA-C=========================== --> 
+<Bullet_LVOAC_rt.label>LVOA-C</Bullet_LVOAC_rt.label>
+<Gun_LVOAC_rt.label>LVOA-C</Gun_LVOAC_rt.label>
+<Gun_LVOAC_rt.description>LVOA-C (Изготовлен War Sport Industries) штурмовая винтовка базирующаяся на базе AR-15. Особенность винтовки в том, что использует два вида патронов 5.56x45mm и .223</Gun_LVOAC_rt.description>
 <!-- ===================AAC Honey Badger =========================== --> 
 <Bullet_AACHoneyBadger_rt.label>AAC Honey Badger</Bullet_AACHoneyBadger_rt.label>
 <Gun_AACHoneyBadger_rt.label>AAC Honey Badger</Gun_AACHoneyBadger_rt.label>

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
-<LanguageData> 
+<LanguageData>
+<!-- =============MP40============== -->
+<Bullet_MP40_rt.label>MP40</Bullet_MP40_rt.label>
+<Gun_MP40_rt.label>MP40</Gun_MP40_rt.label>
+<Gun_MP40_rt.description>MP40 пистолет-пулемет использует патроны 9x19mm.</Gun_MP40_rt.description>
 <!-- =============Skorpion vz 61 ============== -->
 <Bullet_Skorpionvz61_rt.label>Skorpion vz.61</Bullet_Skorpionvz61_rt.label>
 <Gun_Skorpionvz61_rt.label>Skorpion vz.61</Gun_Skorpionvz61_rt.label>

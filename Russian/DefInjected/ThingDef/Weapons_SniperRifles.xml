@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
-<LanguageData> 
+<LanguageData>
+<!-- =============SteyrSSG08============== -->
+<Bullet_308Winchester_rt.label>308 Winchester</Bullet_308Winchester_rt.label>
+<Gun_SteyrSSG08_rt.label>Steyr SSG 08</Gun_SteyrSSG08_rt.label>
+<Gun_SteyrSSG08_rt.description>Steyr SSG 08 является очень точной снайперской винтовкой, со скользящим затвором, испозьзует .308 Winchester.</Gun_SteyrSSG08_rt.description>
 <!-- =============L96A1============== -->
 <Bullet_L96A1_rt.label>L96A1</Bullet_L96A1_rt.label>
 <Gun_L96A1_rt.label>L96A1</Gun_L96A1_rt.label>

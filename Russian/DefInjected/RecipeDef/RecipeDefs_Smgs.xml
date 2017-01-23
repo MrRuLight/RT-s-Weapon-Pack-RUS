@@ -2,6 +2,9 @@
 
 <LanguageData> 
 
+<MP40Craft.label>Собрать пистолет-пулемет MP40</MP40Craft.label>
+<MP40Craft.description>Собрать MP40.</MP40Craft.description>
+
 <Skorpionvz61Craft.label>Собрать пистолет-пулемет Skorpion vz.61</Skorpionvz61Craft.label>
 <Skorpionvz61Craft.description>Собрать Skorpion vz.61.</Skorpionvz61Craft.description>
 
@@ -28,8 +31,5 @@
 
 <PPSH41Craft.label>Собрать пистолет-пулемет ППШ-41</PPSH41Craft.label>
 <PPSH41Craft.description>Собрать ППШ-41.</PPSH41Craft.description>
-
-
-
 
 </LanguageData>

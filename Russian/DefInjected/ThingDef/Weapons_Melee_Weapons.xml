@@ -2,6 +2,12 @@
 
 
 <LanguageData>
+<!-- ============================Pickaxe================================== -->
+<MeleeWeapon_Pickaxe.label>Кирка</MeleeWeapon_Pickaxe.label>
+<MeleeWeapon_Pickaxe.description>Удобный инструмент для добычи полезных ископаемых. Так же при желании может нанести небольшие повреждения.</MeleeWeapon_Pickaxe.description>
+<!-- ============================Butcher Knife================================== -->
+<MeleeWeapon_Butcherknife.label>Нож мясника</MeleeWeapon_Butcherknife.label>
+<MeleeWeapon_Butcherknife.description>Нож, отлично подходит для разделки мяса.</MeleeWeapon_Butcherknife.description>
 <!-- ============================Military Shovel================================== -->
 <MeleeWeapon_Militaryshovel.label>Военная лопата</MeleeWeapon_Militaryshovel.label>
 <MeleeWeapon_Militaryshovel.description>Это лопата, которая не развалится или не подведёт во время тяжёлой работы.</MeleeWeapon_Militaryshovel.description>

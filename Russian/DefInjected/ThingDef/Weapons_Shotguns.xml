@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData> 
+<!-- ===============USAS-12=============== -->
+<Bullet_USAS12_rt.label>USAS-12</Bullet_USAS12_rt.label>
+<Gun_USAS12_rt.label>USAS-12</Gun_USAS12_rt.label>
+<Gun_USAS12_rt.description>Это газовый дробовик. Обеспечивает устойчивую огневую мощь в закрытом ближнем бою.</Gun_USAS12_rt.description>
 <!-- ===============M1014=============== -->
 <Bullet_M1014_rt.label>M1014</Bullet_M1014_rt.label>
 <Gun_M1014_rt.label>M1014</Gun_M1014_rt.label>
